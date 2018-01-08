@@ -1,0 +1,14 @@
+Nadene Abuamara
+File Decoder/Encoder
+
+bv.c		bitVector functions
+bv.h		prototypes for bv functions
+code.h		construct code for each symbol
+decode.c	reconstructs huffman tree, prints out tree
+encode.c	reads in bytes, constructs corresponding tree
+huffman.c	functions that manipulate Huffman tree
+huffman.h	prototypes for huffman functions
+queue.c		used to construct Huffman tree
+queue.h		prototypes for queue functions
+stack.c		handles tranversal of Huffman tree
+stack.h		prototypes for stack functions
